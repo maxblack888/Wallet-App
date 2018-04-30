@@ -1,4 +1,3 @@
 Username: admin
 Password: (leave empty)
-<br>
 // Add users and services in admin panel prior to login.

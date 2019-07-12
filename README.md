@@ -1,6 +1,6 @@
 # Wallet-App<br>
 
-<img src="Screenshot_2017-10-25-14-35-00-106.jpeg" alt="Screenshot" style="width:200px;"/>
+<img src="Screenshot_2017-10-25-14-35-00-106.jpeg" alt="Screenshot" style="width:50px;"/>
 
 4 files are included here:<br>
 i. Wallet App Admin Login.txt `//App admin login details`<br>

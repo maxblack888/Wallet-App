@@ -1,6 +1,6 @@
 # Wallet-App<br>
 
-![Screenshot](Screenshot_2017-10-25-14-35-00-106.jpeg =250x)
+<img src="Screenshot_2017-10-25-14-35-00-106.jpeg" alt="Screenshot" style="width:200px;"/>
 
 4 files are included here:<br>
 i. Wallet App Admin Login.txt `//App admin login details`<br>

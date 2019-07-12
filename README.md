@@ -9,4 +9,4 @@ iv. Wallet App.apk `//APK File` <br>
 `// Add users and services in admin panel prior to user login.`
 
 
-![Screenshot](Screenshot_2017-10-25-14-35-00-106.jpeg)
+![Screenshot](wallet.png)
